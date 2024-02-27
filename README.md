@@ -1,6 +1,6 @@
 ### Hi there
 
-👋 Hi, I'm Michael Studivan, an Assistant Scientist at NOAA's Atlantic Oceanographic and Meteorological Lab (AOML) and UM's Cooperative Institute for Marine and Atmospheric Studies (CIMAS) in Miami, FL
+👋 Hi, I'm Michael Studivan, an Associate Scientist at NOAA's Atlantic Oceanographic and Meteorological Lab (AOML) and UM's Cooperative Institute for Marine and Atmospheric Studies (CIMAS) in Miami, FL
 http://michaelstudivan.weebly.com
 
 I am a coral disease and 'omics PI for the AOML Coral Program (https://www.aoml.noaa.gov/coral-reef-ecosystems/):
