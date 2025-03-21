@@ -1,9 +1,9 @@
 ### Hi there
 
-👋 Hi, I'm Michael Studivan, an Associate Scientist at NOAA's Atlantic Oceanographic and Meteorological Lab (AOML) and UM's Cooperative Institute for Marine and Atmospheric Studies (CIMAS) in Miami, FL
+👋 Hi, I'm Michael Studivan, an Associate Scientist at UM's Cooperative Institute for Marine and Atmospheric Studies (CIMAS), and collaborator at NOAA's Atlantic Oceanographic and Meteorological Lab (AOML) in Miami, FL.
 http://michaelstudivan.weebly.com
 
-I am a coral disease and 'omics PI for the AOML Coral Program (https://www.aoml.noaa.gov/coral-reef-ecosystems/):
+I am a coral disease and 'omics PI with the Coral Program (https://www.aoml.noaa.gov/coral-reef-ecosystems/):
 - 👀 I'm interested in connectivity and resilience of coral reef populations
 - 🔭 I'm currently working on multi-'omics projects to mitigate the spread of Stony Coral Tissue Loss Disease (SCTLD), including transcriptomic responses to infection and treatment, genomic markers of disease resistance, microbial biomarkers for pathogens, and evaluation of disease vectors and treatment approaches
 - 🤝 I'm interested in collaborating on projects to quantify coral resilience to stress, to identify population structure in extreme/marginal environments (mesophotic reefs, urban reefs, etc.), and to help respond to coral disease outbreaks
